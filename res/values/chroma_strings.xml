@@ -13,22 +13,22 @@
     <string name="chroma_menu_personalizaton">خيارات كروما</string>
     <string name="chroma_menu_about">عن كروما</string>
     <string name="status_bar_screen_title">شريط التنبيهات</string>
-    <string name="navigation_bar_screen_title">Navigation bar</string>
-    <string name="power_menu_title">Power menu</string>
-    <string name="volume_rocker_screen_title">Volume rocker</string>
+    <string name="navigation_bar_screen_title">شريط الازرار</string>
+    <string name="power_menu_title">قائمة زر الطاقة</string>
+    <string name="volume_rocker_screen_title">زر التحكم بالصوت</string>
     <!-- Battery and clock category -->
-    <string name="display_category_batteryclock_options_title">Battery and clock options</string>
+    <string name="display_category_batteryclock_options_title">خيارات الساعة والبطارية</string>
     <!-- Navigation bar category -->
-    <string name="display_category_navbar_options_title">Navigation bar options</string>
+    <string name="display_category_navbar_options_title">خيارات شريط الازرار</string>
     <string name="display_category_navring_options_title">Navigation ring options</string>
     <!-- Status bar category -->
-    <string name="display_category_statusbar_options_title">Status bar options</string>
+    <string name="display_category_statusbar_options_title">خيارات شريط التنبيهات</string>
     <!-- Recent apps category -->
-    <string name="display_category_recents_options_title">Recent apps options</string>
+    <string name="display_category_recents_options_title">خيارات التطبيقات المفتوحة مؤخراً</string>
     <!-- Power menu category -->
-    <string name="display_category_power_options_title">Power menu options</string>
+    <string name="display_category_power_options_title">خيارات زر الطاقة</string>
     <!-- QS Tiles -->
-    <string name="qs_category_title">Quick settings</string>
+    <string name="qs_category_title">إعدادات سريعة</string>
 
     <!-- BitSyko Layers -->
     <string name="bitsyko_layers">Layers</string>
@@ -37,24 +37,24 @@
     <string name="supersu_title">SuperSU</string>
 
     <!-- Display : Rotation -->
-    <string name="display_rotation_title">Rotation</string>
-    <string name="display_rotation_disabled">Disabled</string>
-    <string name="display_rotation_unit">degrees</string>
+    <string name="display_rotation_title">الدوران</string>
+    <string name="display_rotation_disabled">معطل</string>
+    <string name="display_rotation_unit">درجة</string>
     <string name="display_rotation_category_title">Rotation modes</string>
-    <string name="display_rotation_0_title">0 degrees</string>
-    <string name="display_rotation_90_title">90 degrees</string>
-    <string name="display_rotation_180_title">180 degrees</string>
-    <string name="display_rotation_270_title">270 degrees</string>
+    <string name="display_rotation_0_title">0 درجة</string>
+    <string name="display_rotation_90_title">90 درجة</string>
+    <string name="display_rotation_180_title">180 درجة</string>
+    <string name="display_rotation_270_title">270 درجة</string>
 
     <!-- Statusbar native battery percent -->
-    <string name="general_string">General</string>
-    <string name="status_bar_title">Status bar</string>
-    <string name="status_bar_native_battery_percentage_title">Battery percentage</string>
-    <string name="status_bar_native_battery_percentage_summary">Show hidden percentage</string>
+    <string name="general_string">عام</string>
+    <string name="status_bar_title">شريط التنبيهات</string>
+    <string name="status_bar_native_battery_percentage_title">النسبة المئوية للبطارية</string>
+    <string name="status_bar_native_battery_percentage_summary">اظهار النسبة المئوية</string>
 
     <!-- Developer options - kill app long press back -->
-    <string name="kill_app_longpress_back">Kill app back button</string>
-    <string name="kill_app_longpress_back_summary">Kill the foreground app by long-pressing the back key</string>
+    <string name="kill_app_longpress_back">إنهاء التطبقيات بزر الرجوع</string>
+    <string name="kill_app_longpress_back_summary">انهاء التطبيقات التي تعمل بالضغط المطول على زر الرجوع</string>
 
     <!-- Generic strings -->
     <string name="ok_string">Ok</string>
